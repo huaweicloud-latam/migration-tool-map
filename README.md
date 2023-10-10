@@ -12,7 +12,7 @@ Second, you can quickly master how to use the tool based on the tool introductio
 Third, share tool usage experience within your team, provide feedback, and help HUAWEI CLOUD optimize tool capabilities.
 
 
-# 2. To Which the Document Is Applicable:
+# 2. To Which the Document Is Applicable
 
 (1) Huawei Cloud engineers
 
@@ -45,3 +45,10 @@ The tool map for Migration
 03-xxx indicates Huawei LATAM Cloud tools
 
 Please check the MAP Catalogue first, and select the tool for your specfic scenario.
+
+# 6. Service Support 
+If you (Huawei Cloud Customers or Partners) have any questions or suggestions, please feel free to contact us by email.
+
+      mail:latamhwcloud@huawei.com
+
+Service Time: 5x8 hours (UTC-6)
