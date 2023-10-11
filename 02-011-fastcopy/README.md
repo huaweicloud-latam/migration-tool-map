@@ -6,7 +6,9 @@ FastCopy ver3.x Copyright(C) 2004-2019 by SHIROUZU Hiroaki and FastCopy Lab, LLC
 
 Due to various circumstances, distribution of the source code is temporarily suspended ... Please use FastCopy V3.XX as freeware with no guarantee.
 
-Windows Vista/7/8/8.1/10Windows Server 2008(&R2)/2012(&R2)/2016/2019 
+Windows Vista/7/8/8.1/10 
+
+Windows Server 2008(&R2)/2012(&R2)/2016/2019 
 
 https://github.com/huaweicloud-latam/migration-tool-map/blob/main/02-011-fastcopy/FastCopy381_installer.exe
 
@@ -28,7 +30,9 @@ FastCopy End User License Agreement (EULA)
   Copyright 2004-2023 SHIROUZU Hiroaki All rights reserved.
   Copyright 2018-2023 FastCopy Lab, LLC. All rights reserved.
 
-  Windows 7/8/8.1/10/11Windows Server 2012(&R2)/2016/2019/2022
+  Windows 7/8/8.1/10/11
+  
+  Windows Server 2012(&R2)/2016/2019/2022
 
 
 https://fastcopy.jp/
