@@ -13,7 +13,6 @@ https://github.com/huaweicloud-latam/migration-tool-map/blob/main/02-011-fastcop
 
 (A Pro version license is required for use in the workplace, excluding 2-week trial period.)
 
----------------------------------------------------------------------------
 FastCopy End User License Agreement (EULA)
 
   1. (Usage License) This software requires a Pro version license for use in non-domestic environments, such as workplaces. It is only available for free use by individuals (non-profit) within the household.
