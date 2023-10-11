@@ -1,6 +1,6 @@
 FastCopy is a Fast Copy/Backup Software on Windows.
 
-# FastCopy V3.81 (Legacy Version, Freeware, supports Windows 2003 Operating System)
+# FastCopy V3.xx (Legacy Version, Freeware, supports Windows 2003 Operating System)
 
 FastCopy ver3.x Copyright(C) 2004-2019 by SHIROUZU Hiroaki and FastCopy Lab, LLC.
 
