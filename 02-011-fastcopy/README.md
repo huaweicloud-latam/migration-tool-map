@@ -30,7 +30,7 @@ FastCopy End User License Agreement (EULA)
   Copyright 2004-2023 SHIROUZU Hiroaki All rights reserved.
   Copyright 2018-2023 FastCopy Lab, LLC. All rights reserved.
 
-  Windows 7/8/8.1/10/11
+  Windows 7/8/8.1/10/11
   
   Windows Server 2012(&R2)/2016/2019/2022
 
